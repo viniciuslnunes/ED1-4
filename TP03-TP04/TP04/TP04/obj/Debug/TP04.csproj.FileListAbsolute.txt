@@ -1,0 +1,9 @@
+C:\Users\Vinicius\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\TP04\TP04\bin\Debug\TP04.exe.config
+C:\Users\Vinicius\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\TP04\TP04\bin\Debug\TP04.exe
+C:\Users\Vinicius\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\TP04\TP04\bin\Debug\TP04.pdb
+C:\Users\Vinicius\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\TP04\TP04\obj\Debug\TP04.csprojAssemblyReference.cache
+C:\Users\Vinicius\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\TP04\TP04\obj\Debug\TP04.Frm_Main.resources
+C:\Users\Vinicius\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\TP04\TP04\obj\Debug\TP04.Properties.Resources.resources
+C:\Users\Vinicius\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\TP04\TP04\obj\Debug\TP04.csproj.GenerateResource.cache
+C:\Users\Vinicius\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\TP04\TP04\obj\Debug\TP04.exe
+C:\Users\Vinicius\OneDrive\IFSP\ADS\ADS471\ED2\Atividade 08-12-2020\TP04\TP04\obj\Debug\TP04.pdb
