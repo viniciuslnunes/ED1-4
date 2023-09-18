@@ -1,0 +1,16 @@
+D:\IFSP\ED2I4\Atividade21-10-20\bin\Debug\net5.0\Atividade21-10-20.exe
+D:\IFSP\ED2I4\Atividade21-10-20\bin\Debug\net5.0\Atividade21-10-20.deps.json
+D:\IFSP\ED2I4\Atividade21-10-20\bin\Debug\net5.0\Atividade21-10-20.runtimeconfig.json
+D:\IFSP\ED2I4\Atividade21-10-20\bin\Debug\net5.0\Atividade21-10-20.runtimeconfig.dev.json
+D:\IFSP\ED2I4\Atividade21-10-20\bin\Debug\net5.0\Atividade21-10-20.dll
+D:\IFSP\ED2I4\Atividade21-10-20\bin\Debug\net5.0\ref\Atividade21-10-20.dll
+D:\IFSP\ED2I4\Atividade21-10-20\bin\Debug\net5.0\Atividade21-10-20.pdb
+D:\IFSP\ED2I4\Atividade21-10-20\obj\Debug\net5.0\Atividade21-10-20.csproj.AssemblyReference.cache
+D:\IFSP\ED2I4\Atividade21-10-20\obj\Debug\net5.0\Atividade21-10-20.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFSP\ED2I4\Atividade21-10-20\obj\Debug\net5.0\Atividade21-10-20.AssemblyInfoInputs.cache
+D:\IFSP\ED2I4\Atividade21-10-20\obj\Debug\net5.0\Atividade21-10-20.AssemblyInfo.cs
+D:\IFSP\ED2I4\Atividade21-10-20\obj\Debug\net5.0\Atividade21-10-20.csproj.CoreCompileInputs.cache
+D:\IFSP\ED2I4\Atividade21-10-20\obj\Debug\net5.0\Atividade21-10-20.dll
+D:\IFSP\ED2I4\Atividade21-10-20\obj\Debug\net5.0\ref\Atividade21-10-20.dll
+D:\IFSP\ED2I4\Atividade21-10-20\obj\Debug\net5.0\Atividade21-10-20.pdb
+D:\IFSP\ED2I4\Atividade21-10-20\obj\Debug\net5.0\Atividade21-10-20.genruntimeconfig.cache
