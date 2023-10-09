@@ -1,0 +1,16 @@
+D:\IFSP\ED2I4\Atividade21-11-17\bin\Debug\net5.0\Atividade21-11-17.exe
+D:\IFSP\ED2I4\Atividade21-11-17\bin\Debug\net5.0\Atividade21-11-17.deps.json
+D:\IFSP\ED2I4\Atividade21-11-17\bin\Debug\net5.0\Atividade21-11-17.runtimeconfig.json
+D:\IFSP\ED2I4\Atividade21-11-17\bin\Debug\net5.0\Atividade21-11-17.runtimeconfig.dev.json
+D:\IFSP\ED2I4\Atividade21-11-17\bin\Debug\net5.0\Atividade21-11-17.dll
+D:\IFSP\ED2I4\Atividade21-11-17\bin\Debug\net5.0\ref\Atividade21-11-17.dll
+D:\IFSP\ED2I4\Atividade21-11-17\bin\Debug\net5.0\Atividade21-11-17.pdb
+D:\IFSP\ED2I4\Atividade21-11-17\obj\Debug\net5.0\Atividade21-11-17.csproj.AssemblyReference.cache
+D:\IFSP\ED2I4\Atividade21-11-17\obj\Debug\net5.0\Atividade21-11-17.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFSP\ED2I4\Atividade21-11-17\obj\Debug\net5.0\Atividade21-11-17.AssemblyInfoInputs.cache
+D:\IFSP\ED2I4\Atividade21-11-17\obj\Debug\net5.0\Atividade21-11-17.AssemblyInfo.cs
+D:\IFSP\ED2I4\Atividade21-11-17\obj\Debug\net5.0\Atividade21-11-17.csproj.CoreCompileInputs.cache
+D:\IFSP\ED2I4\Atividade21-11-17\obj\Debug\net5.0\Atividade21-11-17.dll
+D:\IFSP\ED2I4\Atividade21-11-17\obj\Debug\net5.0\ref\Atividade21-11-17.dll
+D:\IFSP\ED2I4\Atividade21-11-17\obj\Debug\net5.0\Atividade21-11-17.pdb
+D:\IFSP\ED2I4\Atividade21-11-17\obj\Debug\net5.0\Atividade21-11-17.genruntimeconfig.cache
