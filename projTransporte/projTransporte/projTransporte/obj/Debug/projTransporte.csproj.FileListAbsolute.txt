@@ -1,0 +1,7 @@
+D:\Documentos\vinicius\faculdade\4 semestre\estrutura de dados 2\projTransporte\projTransporte\obj\Debug\projTransporte.csprojAssemblyReference.cache
+D:\Documentos\vinicius\faculdade\4 semestre\estrutura de dados 2\projTransporte\projTransporte\obj\Debug\projTransporte.csproj.CoreCompileInputs.cache
+D:\Documentos\vinicius\faculdade\4 semestre\estrutura de dados 2\projTransporte\projTransporte\bin\Debug\projTransporte.exe.config
+D:\Documentos\vinicius\faculdade\4 semestre\estrutura de dados 2\projTransporte\projTransporte\bin\Debug\projTransporte.exe
+D:\Documentos\vinicius\faculdade\4 semestre\estrutura de dados 2\projTransporte\projTransporte\bin\Debug\projTransporte.pdb
+D:\Documentos\vinicius\faculdade\4 semestre\estrutura de dados 2\projTransporte\projTransporte\obj\Debug\projTransporte.exe
+D:\Documentos\vinicius\faculdade\4 semestre\estrutura de dados 2\projTransporte\projTransporte\obj\Debug\projTransporte.pdb
