@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="projLocacao.Equipamento">
+    <Position X="4.25" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAgA=</HashCode>
+      <FileName>Equipamento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projLocacao.Equipamentos">
+    <Position X="8.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAARAAAAGAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAIQ=</HashCode>
+      <FileName>Equipamentos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projLocacao.Catalogo">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Catalogo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projLocacao.Contrato">
+    <Position X="7" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAQAEAAEABQAAAAEAEAAAABAAAAAAAgA=</HashCode>
+      <FileName>Contrato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
